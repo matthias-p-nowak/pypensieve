@@ -11,5 +11,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    pensieve.Pensieve.saveOnExit()
     print(f"exiting " + __file__)
